@@ -1,1 +1,8 @@
+# hide everything in the out folder
+
 out/*
+
+
+## except for
+!out/*.csv
+
