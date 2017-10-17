@@ -10,3 +10,9 @@ Baby sharks are kind of cute, but they do bite.
 Left handed Sea Otters are cuter than baby sharks.
 If Hadrien could reinvent himself, he would be a Sea Otter in Vancouver.
 
+## Killer Whales
+
+There are different species of Killer Whales.
+The most awesome Killer Whale researcher is Andy Foote.
+
+
